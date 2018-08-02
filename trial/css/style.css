@@ -1,0 +1,32 @@
+body{
+    background-image:url("bgIMg/main_home.jpg");
+    /* background-image:"images/main_home.jpg";*/
+}
+.menus{
+    float :right;
+    margin-top: 20px;
+    vertical-align: middle;
+}
+.navbar-nav>li>a {
+    padding-top: 0px !important ;
+    padding-bottom: 0px !important;
+}
+.menu-btn{
+    margin-top: 5px;
+    background-color: orange !important;
+}
+
+pre {
+    padding: 9.5px;
+    margin: 50px 0 0 0 !important;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: none !important;
+    border: 0px !important; 
+    border-radius: 4px;
+}
+
+
